@@ -60,7 +60,8 @@ Metriod(密特罗德)，也就是银河战士，是银河类游戏的祖宗。
 《糖果包装纸》(Candy Wrapper) 是一款循环式平台街机游戏，使用 Godot Engine 4.4.1 构建。
         `},{id:125123,name:"深空迷梦",description:"宇宙探索小游戏",icon:"https://godothub.atomgit.net/public/app/125123/icon.png",tags:["休闲益智","2D","键盘适配","横板","Festival 2025"],detailRaw:`
 一名宇航员迷失在了浩瀚的宇宙之中，他能在你的帮助下脱离困境吗？
-        `},{id:125124,name:"骑士 · 剑 & 诅咒地牢",description:"操控小骑士扫荡地牢！",icon:"https://godothub.atomgit.net/public/app/125124/icon.png",tags:["动作冒险","2D","键鼠适配","画面精致"],detailRaw:`
+        `},{id:125124,name:"地牢突击",description:"操控小骑士扫荡地牢！",icon:"https://godothub.atomgit.net/public/app/125124/icon.png",actions:[{theme:"brand",text:"个人主页",link:"https://space.bilibili.com/610076049"}],tags:["动作冒险","2D","键鼠适配","画面精致"],detailRaw:`
+地牢突击（DungeonRush）：
 操控小骑士，打败骷髅、史莱姆和强力BOSS，在危机丛生的地牢中战胜强敌！
         `},{id:125125,name:"梦醒边界",description:"进入梦境中，挥剑战斗！",icon:"https://godothub.atomgit.net/public/app/125125/icon.png",tags:["动作冒险","2D","键盘适配","像素风","Festival 2025"],detailRaw:`
 《梦醒边界》是一款基于 Godot 4.4.1 开发的2D像素风的横版格斗游戏，融合了解谜、对话和战斗元素。作为 **Godot Hub** 第三届开发大赛的参赛作品，本游戏以"WAKE"（醒来）为主题，讲述了主角在梦之间穿梭，通过解谜和战斗收集线索，逐步找回自我的故事。游戏以丰富的剧情、精美的像素画面和精彩的战斗为特色，为玩家带来沉浸式的游戏体验。
