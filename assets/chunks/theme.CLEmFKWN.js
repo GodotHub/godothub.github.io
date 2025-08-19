@@ -199,7 +199,7 @@ GMTK2025作品
 跟着B神的视频自己手搓出来的游戏。
 
 添加了冰面打滑、爬梯子、下穿平台等功能。
-        `},{id:125147,name:"Mind 404",description:"意识迷宫中的生存与觉醒",icon:"https://godothub.atomgit.net/public/app/125147/icon.png",tags:["角色扮演","2D","鼠标适配","移动端适配","剧情向"],detailRaw:`
+        `},{id:125147,name:"Mind 404",description:"意识迷宫中的生存与觉醒",icon:"https://godothub.atomgit.net/public/app/125147/icon.png",tags:["角色扮演","2D","鼠标适配","移动端适配","剧情向","Festival 2025"],detailRaw:`
 在《Mind 404》中，你将化身一名“Mind 404”患者，被推入象征集体潜意识的无边海洋。
 那里没有宁静，只有一座座由混沌凝成的 危机地牢 ——随机、险恶，却暗藏着通往清醒的出口。
 
