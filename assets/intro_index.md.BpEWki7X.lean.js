@@ -1,0 +1,1 @@
+import{_ as o,c as i,o as e,ag as a}from"./chunks/framework.26XVkPZQ.js";const m=JSON.parse('{"title":"社区介绍","description":"","frontmatter":{},"headers":[],"relativePath":"intro/index.md","filePath":"intro/index.md"}'),d={name:"intro/index.md"};function n(s,t,r,l,c,p){return e(),i("div",null,t[0]||(t[0]=[a("",6)]))}const u=o(d,[["render",n]]);export{m as __pageData,u as default};
